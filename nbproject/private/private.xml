@@ -4,14 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/ChessBoard.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/test/CoordinateTest.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/test/SquareTest.java</file>
             <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/Coordinate.java</file>
             <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/Square.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/test/PieceTest.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/ChessColour.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/ChessPieces.java</file>
-            <file>file:/C:/Year_2/winter/Sysc2004/chess_practice/chess/src/chess/Piece.java</file>
         </group>
     </open-files>
 </project-private>
